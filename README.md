@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 **Currently studying Cybersecurity Engineering**
+- 🎓 **Currently studying Cybersecurity in AL bukhary international university**
 - 🔍 Passionate about **Bug Bounty, Ethical Hacking & Cybersecurity**
 - 🛠️ Exploring **Penetration Testing, Malware Analysis & Network Security**
 - 📫 **Reach me at:** parvejrafi80@gmail.com
